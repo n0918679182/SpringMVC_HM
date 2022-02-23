@@ -49,14 +49,14 @@
 				<tr>
 					<td>${status.index }</td><td>${lotto }</td>
 					<td>
-						<button type="bottom" 
+						<button type="button" 
 								onclick="window.location.href='./update/${status.index}';"
 								class="pure-button pure-button-primary">
 				      	 	­×§ï
 				      	</button>
 					</td>
 					<td>
-						<button type="bottom" 
+						<button type="button" 
 								onclick="window.location.href='./delete/${status.index}';"
 								class="pure-button pure-button-primary">
 				      	 	§R°£

@@ -1,0 +1,13 @@
+@charset "BIG5";
+.examlink{
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.examtable{
+	width: 100%; 
+	border: 0xp;
+}
+.exambody{
+	padding: 15px;
+}
