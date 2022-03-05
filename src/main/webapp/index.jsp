@@ -7,6 +7,15 @@
 <title>Index</title>
 </head>
 <body>
-Hi
+<ol>
+	<li>
+		<a href="./mvc/lab/fund/">./lab/fund</a>
+	</li>
+	
+	<li>
+		<a href="./mvc/lab/fundstock/">./lab/fundstock</a>
+	</li>
+</ol>
+
 </body>
 </html>
